@@ -119,6 +119,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.generative-ai 
+generative-ai/
 
 # Spyder project settings
 .spyderproject
