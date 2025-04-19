@@ -162,3 +162,6 @@ text_to_image_cgan/improved_model/content/102flowers.tgz
 text_to_image_cgan/basic_model/models/generator.pth
 *.pth
 *.tgz
+
+text_to_image_cgan_and_cnn/content/jpg/
+text_to_image_cgan_and_cnn/content/102flowers.tgz
